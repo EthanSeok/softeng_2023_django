@@ -1,6 +1,6 @@
 ## 수업 내용 복습하기
 
-### windows에서 파이썬 가상환경 만들기
+### 장고 1주차: windows에서 파이썬 가상환경 만들기
 
 1. 윈도우 검색창에 cmd를 관리자 권한으로 실행
 
@@ -32,3 +32,5 @@ venv\Scripts\activate.bat
 ```python
 pip install django
 ```
+
+### 장고 1주차: 장고 셋업
