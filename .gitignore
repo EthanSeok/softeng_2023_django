@@ -5,3 +5,4 @@ single_pages/migrations
 softeng_django_prj/__pycache__
 venv
 db.sqlite3
+.idea
