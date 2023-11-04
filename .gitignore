@@ -6,3 +6,7 @@ softeng_django_prj/__pycache__
 venv
 db.sqlite3
 .idea
+todo_app/__pycache__
+todo_app/__pycache__
+todo_app/migrations/__pycache__
+todo_app/migrations
